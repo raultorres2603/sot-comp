@@ -1,10 +1,10 @@
 @font-face {
-  font-family: SOT;
+  font-family: SoT;
   src: url("/src/fonts/brushtiptexe/BTTTRIAL.otf") format("opentype");
 }
 
 .sotFont {
-  font-family: "SOT";
+  font-family: "SoT";
 }
 
 .titleLogin {

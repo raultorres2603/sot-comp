@@ -1,6 +1,7 @@
 import logo from "./logo.svg";
 import React from "react";
 import ReactDOM from "react-dom/client";
+import Cookies from "universal-cookie";
 import "./App.css";
 import "./css/main.css";
 import "bootstrap/dist/css/bootstrap.min.css";

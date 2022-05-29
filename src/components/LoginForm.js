@@ -10,7 +10,9 @@ class LoginForm extends React.Component {
     return (
       <div className="container">
         <div className="col-12">
-          <p className="sotFont titleLogin">The Reaper's Secret</p>
+          <div className="row mt-4">
+            <p className="sotFont titleLogin">The Reaper's Secret</p>
+          </div>
         </div>
       </div>
     );
