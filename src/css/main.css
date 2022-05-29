@@ -1,0 +1,16 @@
+@font-face {
+  font-family: SOT;
+  src: url("/src/fonts/brushtiptexe/BTTTRIAL.otf") format("opentype");
+}
+
+.sotFont {
+  font-family: "SOT";
+}
+
+.titleLogin {
+  font-size: 5vw;
+  background: #cf1515;
+  background: linear-gradient(to right, #cf1515 42%, #f7ff00 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
