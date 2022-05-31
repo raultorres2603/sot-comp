@@ -45,7 +45,7 @@ class LoginForm extends React.Component {
               <p className="formTitle">Join Us</p>
             </div>
             <div className="row mt-3">
-              <div className="col-md-4" style={this.state.styles.fadeInLeft}>
+              <div className="col-md-4" style={this.state.styles.fadeInDown}>
                 <input
                   class="form-control form-control-lg controlSOT"
                   type="email"
@@ -53,7 +53,7 @@ class LoginForm extends React.Component {
                   placeholder="E-mail"
                 />
               </div>
-              <div className="col-md-4" style={this.state.styles.fadeInLeft}>
+              <div className="col-md-4" style={this.state.styles.fadeInDown}>
                 <input
                   class="form-control form-control-lg controlSOT"
                   type="text"
@@ -61,7 +61,7 @@ class LoginForm extends React.Component {
                   placeholder="Username"
                 />
               </div>
-              <div className="col-md-4" style={this.state.styles.fadeInRight}>
+              <div className="col-md-4" style={this.state.styles.fadeInDown}>
                 <input
                   class="form-control form-control-lg controlSOT"
                   type="password"
