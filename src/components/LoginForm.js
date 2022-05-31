@@ -41,7 +41,7 @@ class LoginForm extends React.Component {
             <div className="row mt-4" style={this.state.styles.fadeInDown}>
               <p className="titleLogin">Athena's Fortune</p>
             </div>
-            <div className="row mt-2" style={this.state.styles.fadeInDown}>
+            <div className="row" style={this.state.styles.fadeInDown}>
               <p className="formTitle">Join Us</p>
             </div>
             <div className="row mt-3">
